@@ -1,6 +1,5 @@
 name: Sketchy Xtreme Deluxe Edition + Launchday Awesomeness DLC
 description: A game of sketching and guessing.
-api: 3
-single: true
+api: 2
 icon: color
 splashtext: In **Sketchy** by Lina you can sketch and guess even more fun topics! 

@@ -1,6 +1,6 @@
 exports.canvasRatio = -> 1.283783784 # (296 * 380)
 exports.canvasSize = -> 676
-exports.drawTime = -> 2*60*1000 # ms
+exports.drawTime = -> 120000 # ms
 exports.thinkingTime = -> 25000 # ms
 exports.guessSpeed = -> 2 # guess drawing goes twice as fast
 exports.guessTime = -> 30000 # ms
